@@ -13,7 +13,7 @@ There are two main ways to interact with the API:
 
 ## Adding ccRides to your project
 
-You can add the API to your project as a Maven repo with [jitpack.io](https://jitpack.io/#TheClowner/ccRides-API/1.0)
+You can add the API to your project as a Maven repo with [jitpack.io](https://jitpack.io/#TheClowner/ccRides-API/BETA-0.2)
 
 ```xml
 <repositories>
